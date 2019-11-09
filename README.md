@@ -8,6 +8,6 @@ Intructions:
 - Intall node js
 - Run XAMPP
 - Import the database
-- Run the server (using command line go to testconnection directory and input> node app.js)
-- Once the server is running, run the app. (It should work)
+- Run the server (using command line: go to testconnection directory and input>> node app.js)
+- Once the server is running, run the app using android studio. (It should work)
 
